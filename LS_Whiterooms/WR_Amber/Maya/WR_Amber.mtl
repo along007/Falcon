@@ -1,0 +1,21 @@
+newmtl Decal_Ground_Castle_TrimSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd s1-1_011-n.T.bmp.bmp
+Ni 1.00
+newmtl MI_LS101_Wall_Stone_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd T_SH_Masonary_Wall_01_C.tga
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd s1-1_011-n.T.bmp.bmp
+Ni 1.00
